@@ -1,7 +1,7 @@
 # Cloudflare Workers AI Chat
 
 An AI-powered chat app on Cloudflare Workers using Durable Objects for state and a tiny static UI. Ships with production-ready defaults plus a local mock for quick iteration.
-
+https://red-bush-877e.stockton1229.workers.dev/
 ## Contents
 
 - Features
